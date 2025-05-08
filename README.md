@@ -27,7 +27,7 @@
 - **Languages**: Python, JavaScript, C
 - **Frameworks**: Flask
 - **Frontend**: HTML5, CSS3
-- **Database**: MySQL Workbench
+- **Database**: MySQL Workbench, MongoDB
 - **Tools**: Git, GitHub, Postman, VS Code
 - **APIs**: Fast2SMS, Flask-Mail, Gemini AI, Twilio
 
