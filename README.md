@@ -8,5 +8,5 @@
 
 💬 Interested in real-time communication, file sharing, and cloud deployment
 
-📫 Let's connect: GitHub | LinkedIn
+
 
