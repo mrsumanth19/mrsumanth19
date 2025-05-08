@@ -1,12 +1,44 @@
-👋 Hi, I'm Sumanth, a B.Tech CSE student passionate about full-stack web development, AI integration, and building meaningful software solutions. I enjoy turning ideas into projects that help students learn, share, and grow.
+# 👋 Hi, I'm Sumanth Vanapalli
 
-🔨 Developer of LearnNexus – a community learning platform
+*He/Him*  
+🎓 3rd Year B.Tech CSE Student | 🌐 Web Developer | 🤖 Aspiring AI/ML Enthusiast  
+💡 Passionate about building innovative tech solutions that make a difference.
 
-🌾 Creator of AgriWeb – an agriculture platform with smart notifications
+---
 
-🧠 Exploring AI APIs like Gemini and ChatGPT
+## 🔭 Current Projects
 
-💬 Interested in real-time communication, file sharing, and cloud deployment
+- 🚀 **LearnNexus** – A community-driven educational platform for students to share notes, get real-time notifications, and interact with an AI assistant.
+- 🌾 **AgriWeb** – A smart agriculture web portal providing detailed crop information and SMS alerts for farmers.
 
+---
 
+## 💡 Interests
 
+- Full-stack web development with **HTML, CSS, JavaScript, Flask**
+- Building intelligent apps using **AI & ML**
+- Real-time communication, file handling, and database systems
+- Exploring AI tools like **ChatGPT** and **Gemini API**
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages**: Python, JavaScript, C
+- **Frameworks**: Flask
+- **Frontend**: HTML5, CSS3
+- **Database**: MySQL Workbench
+- **Tools**: Git, GitHub, Postman, VS Code
+- **APIs**: Fast2SMS, Flask-Mail, Gemini AI
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sumanth-vanapalli-96a944290)
+- 📧 Email: [sumanthvanapalli194@gmail.com](mailto:sumanthvanapalli194@gmail.com)
+- 🧑‍💻 [GitHub Profile](https://github.com/mrsumanth19)
+
+---
+
+> "Turning ideas into impactful code — one project at a time."
