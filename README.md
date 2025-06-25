@@ -38,6 +38,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/sumanth-vanapalli-96a944290)
 - 📧 Email: [sumanthvanapalli194@gmail.com](mailto:sumanthvanapalli194@gmail.com)
 - 🧑‍💻 [GitHub Profile](https://github.com/mrsumanth19)
+- 🌐 [Portfolio](https://sumanthvanapalli.netlify.app)
 
 ---
 
