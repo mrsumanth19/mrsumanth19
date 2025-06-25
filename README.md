@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sumanth Vanapalli
 
 *He/Him*  
-🎓 3rd Year B.Tech CSE Student | 🌐 Web Developer | 🤖 Aspiring AI/ML Enthusiast  
+🎓 Final Year B.Tech CSE Student | 🌐 Web Developer | 🤖 Aspiring AI/ML Enthusiast  
 💡 Passionate about building innovative tech solutions that make a difference.
 
 ---
